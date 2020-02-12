@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "324523348912",
+    "firebase_url": "https://porao-b5880.firebaseio.com",
+    "project_id": "porao-b5880",
+    "storage_bucket": "porao-b5880.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324523348912:android:561aacf9d1fe2d04",
+        "android_client_info": {
+          "package_name": "com.zameer.porao1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324523348912-crc3qm60cj9hlq8m9mqiorv36dll0rgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvSf1Aw4mqiUOycdEKUBYePaau5oKsKZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324523348912-crc3qm60cj9hlq8m9mqiorv36dll0rgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
